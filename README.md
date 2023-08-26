@@ -6,25 +6,30 @@
 
 <h2>This repository contains projects I finished as part of <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>'s <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data Analysis With Python</a> course.</h2>
 
-<table align="left">
-  <tr>
-    <th><h3>Projects</h3></th>
-    <th><h3>Links</h3></th>
-  </tr>
+<table align="center">
   <tr>
     <td valign="center">
       <a href="https://github.com/rushilp1/freeCodeCamp-DataAnalysisWithPython-Projects/tree/main/MeanVarianceStandard-Deviation-Calculator">Mean Variance Standard-Deviation Calculator :octocat:</a>
     </td>
     <td valign="center">
-      <a href="https://replit.com/@RushilPatel11/MeanVarianceStandard-Deviation-Calculator">
-        <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" 
-             alt="Replit Link for the 'Mean Variance Standard-Deviation Calculator' project">
-      </a>
+      <a href="https://github.com/rushilp1/freeCodeCamp-DataAnalysisWithPython-Projects/tree/main/Demographic-Data-Analyzer">Demographic Data Analyzer :octocat:</a>
+    </td>
+    <td valign="center">
+      <a href="https://github.com/rushilp1/freeCodeCamp-DataAnalysisWithPython-Projects/tree/main/Medical-Data-Visualizer">Medical Data Visualizer :octocat:</a>
+    </td>
+    <td valign="center">
+      <a href="https://github.com/rushilp1/freeCodeCamp-DataAnalysisWithPython-Projects/tree/main/Page-View-Time-Series-Visualizer">Page View Time Series Visualizer :octocat:</a>
+    </td>
+    <td valign="center">
+      <a href="https://github.com/rushilp1/freeCodeCamp-DataAnalysisWithPython-Projects/tree/main/Sea-Level-Predictor">Sea Level Predictor :octocat:</a>
     </td>
   </tr>
   <tr>
     <td valign="center">
-      <a href="https://github.com/rushilp1/freeCodeCamp-DataAnalysisWithPython-Projects/tree/main/Demographic-Data-Analyzer">Demographic Data Analyzer :octocat:</a>
+      <a href="https://replit.com/@RushilPatel11/MeanVarianceStandard-Deviation-Calculator">
+        <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" 
+             alt="Replit Link for the 'Mean Variance Standard-Deviation Calculator' project">
+      </a>
     </td>
     <td valign="center">
       <a href="https://replit.com/@RushilPatel11/Demographic-Data-Analyzer">
@@ -32,32 +37,17 @@
              alt="Replit Link for the 'Demographic Data Analyzer' project">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td valign="center">
-      <a href="https://github.com/rushilp1/freeCodeCamp-DataAnalysisWithPython-Projects/tree/main/Medical-Data-Visualizer">Medical Data Visualizer :octocat:</a>
-    </td>
     <td valign="center">
       <a href="https://replit.com/@RushilPatel11/Medical-Data-Visualizer">
         <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" 
              alt="Replit Link for the 'Medical Data Visualizer' project">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td valign="center">
-      <a href="https://github.com/rushilp1/freeCodeCamp-DataAnalysisWithPython-Projects/tree/main/Page-View-Time-Series-Visualizer">Page View Time Series Visualizer :octocat:</a>
-    </td>
     <td valign="center">
       <a href="https://replit.com/@RushilPatel11/Page-View-Time-Series-Visualizer">
         <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" 
              alt="Replit Link for the 'Page View Time Series Visualizer' project">
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="center">
-      <a href="https://github.com/rushilp1/freeCodeCamp-DataAnalysisWithPython-Projects/tree/main/Sea-Level-Predictor">Sea Level Predictor :octocat:</a>
     </td>
     <td valign="center">
       <a href="https://replit.com/@RushilPatel11/Sea-Level-Predictor">
@@ -68,10 +58,10 @@
   </tr>
 </table>
 
-<p align="right">
+<p align="center">
   <a href="https://freecodecamp.org/certification/RushilPatel/data-analysis-with-python-v7">
     <img src="./FCC_DataAnalysisWithPython_Certificate.png" 
          alt="Certificate awarded after completing FreeCodeCamp's Data Analysis Course!" 
-         width="47.8%">
+         width="100%">
   </a>
 </p>
